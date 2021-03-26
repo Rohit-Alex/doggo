@@ -1,4 +1,27 @@
 .App {
-  font-family: sans-serif;
-  text-align: center;
+    font-family: sans-serif;
+    text-align: center;
+}
+.dropDown {
+    height: 350px;
+    width: 300px;
+    margin: auto;
+}
+select {
+    width: 300px;
+    font-size: larger;
+    text-align: center;
+    align-items: center;
+}
+option {
+    background-color: rgb(196, 191, 191);
+}
+.image {
+    padding-top: 40px;
+    height: 80px;
+    width: 250px;
+    margin: auto;
+    position: relative;
+    top: 120px;
+    background-color: rgb(196, 191, 191);
 }
